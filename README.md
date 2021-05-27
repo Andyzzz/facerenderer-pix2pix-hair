@@ -14,7 +14,13 @@ python train_percep.py
 ```
 
 ## Test
+
 ```
 python test_parsing.py
 ```
 
+Get long-hair results via:
+```
+python test_pre_addhair.py
+python test_parsing.py
+```
